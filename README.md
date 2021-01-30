@@ -1,1 +1,3 @@
 # python_script
+to study python script for windows applications
+excel, power point, etc...
